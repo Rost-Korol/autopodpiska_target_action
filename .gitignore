@@ -1,0 +1,6 @@
+*docx
+venv/
+.idea/
+__pycache__/
+data/*.pkl
+catboost_info/
